@@ -5,7 +5,7 @@
       For a guide and reciasdasdgit pes on how to configure / customize this project,<br />
       check out the
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener"
-        >vue-cli documentaccccction</a
+        >vue-cli documentwfwefwefwgit adaccccction</a
       >.
     </p>
     <h3>Installed CLI Plugins</h3>
